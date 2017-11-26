@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Montes, a web developer with 20 years of experience working remotely for a [catalonian](https://en.wikipedia.org/wiki/Catalonia) company, [Incubalia](https://incubalia.com). I live in Barcelona and I combine remote work for Incubalia with my Motorhomes focused web [acuestas.es](https://acuestas.es).
+I'm Javier Montes, a web developer with 20 years of experience working remotely for a [catalonian](https://en.wikipedia.org/wiki/Catalonia) company, [Incubalia](https://incubalia.com). I live in Barcelona and I combine remote work for Incubalia with my Motorhomes focused web [acuestas.es](https://acuestas.es).
 
 Here you will find information about my work on web development combined with my other passion, travel the world.
 
