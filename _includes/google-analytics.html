@@ -1,5 +1,5 @@
 <script>
-if (navigator.userAgent.match(/Google Page Speed Insights/i) != null) { // may need changing?
+if (navigator.userAgent.match(/Google Page Speed Insights/i) === null) {
   var js = document.createElement('script');
   js.setAttribute("async", "");
   js.src = "https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}";
