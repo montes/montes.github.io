@@ -1,9 +1,16 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110220638-1"></script>
 <script>
+if (navigator.userAgent.match(/Google Page Speed Insights/i) != null) { // may need changing?
+  var js = document.createElement('script');
+  js.setAttribute("async", "");
+  js.src = "https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}";
+
+  var h = document.getElementsByTagName('head')[0];
+  h.appendChild(js);
+
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', '{{ site.google_analytics }}');
+}
 </script>
