@@ -1,0 +1,52 @@
+
+.navbar {
+    justify-content: center;
+}
+
+.navbar-brand {
+    font-family: Raleway;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 1.1rem;
+    margin-right: 0;
+}
+
+.navbar-toggler {
+    position: fixed;
+    bottom: 1.2rem;
+    right: 1.2rem;
+    z-index: 2;
+    background: #fff;
+}
+
+.navbar-collapse {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    padding: 1rem;
+    box-shadow: 0px 0px 5px rgba(0,0,0,.2);
+    z-index: 1;
+}
+
+@include media-breakpoint-up(sm) {
+    .navbar-brand {
+        font-size: 2rem;
+    }
+}
+
+@include media-breakpoint-up(lg) {
+    .navbar {
+        flex-flow: row wrap;
+    }
+    .navbar-collapse {
+        box-shadow: none;
+        background: transparent;
+        position: relative;
+        padding-top: 0;
+    }
+        .navbar-nav {
+            margin: 0 auto;
+        }
+}

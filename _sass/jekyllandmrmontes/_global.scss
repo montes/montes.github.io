@@ -1,0 +1,18 @@
+
+a {
+    color: #7D94A0;
+
+    &:hover {
+        color: darken(#7D94A0, 15%);
+        text-decoration: underline;
+    }
+}
+
+a:focus,
+button:focus {
+    outline-color: #aaa;
+}
+
+img {
+    max-width: 100%;
+}

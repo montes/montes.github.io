@@ -1,0 +1,37 @@
+<footer class="site-footer">
+
+    <div class="container">
+
+        <hr>
+
+        <ul class="row list-unstyled">
+            <li class="col-12">
+                {% if site.email %}
+                    <div class="footer-item">
+                        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+                    </div>
+                {% endif %}
+
+                {% if site.github_username %}
+                    <div class="footer-item">
+                        {% include icon-github.html username=site.github_username %}
+                    </div>
+                {% endif %}
+
+                {% if site.twitter_username %}
+                    <div class="footer-item">
+                        {% include icon-twitter.html username=site.twitter_username %}
+                    </div>    
+                {% endif %}
+            </li>
+        </div>
+
+    </div>
+
+</footer>
+
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+
+<script type="text/javascript" src="{{ "/assets/js/jquery-3.2.1.min.js" | relative_url }}"></script>
+<script type="text/javascript" src="{{ "/assets/js/popper.min.js" | relative_url }}"></script>
+<script type="text/javascript" src="{{ "/assets/js/bootstrap.min.js" | relative_url }}"></script>
