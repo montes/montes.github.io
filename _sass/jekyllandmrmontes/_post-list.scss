@@ -1,0 +1,16 @@
+
+.post-list {
+    li {
+        margin-bottom: 1.2rem;
+    }
+}
+
+@include media-breakpoint-up(md) {
+    .post-list {
+        li {
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid #eee;
+        }
+    }
+}

@@ -16,3 +16,13 @@ button:focus {
 img {
     max-width: 100%;
 }
+
+h2 {
+    font-size: 1.2rem;
+}
+
+@include media-breakpoint-up(md) {
+    h2 {
+        font-size: 2rem;
+    }
+}

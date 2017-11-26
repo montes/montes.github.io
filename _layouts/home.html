@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="home row justify-content-center">
   {{ content }}
-  <ul class="post-list list-unstyled col-12 col-lg-8">
+  <ul class="post-list list-unstyled col-12 col-lg-8 col-xl-7">
     {% for post in site.posts %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
