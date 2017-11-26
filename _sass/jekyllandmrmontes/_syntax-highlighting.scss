@@ -5,6 +5,10 @@
   padding: 1rem;
   border: 1px solid #eee;
 
+  pre {
+      margin-bottom: 0;
+  }
+
   .highlighter-rouge & {
     background: #eef;
   }
