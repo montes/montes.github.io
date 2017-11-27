@@ -19,6 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: montesjmm
 github_username: montes
+instagram_username: montes
 google_analytics: "UA-110220638-1"
 
 # Build settings
