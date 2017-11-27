@@ -1,6 +1,26 @@
 
 .navbar {
+    margin-bottom: 2rem;
+
     justify-content: center;
+
+    background-image: url(/assets/images/coding-in-the-beach-header-mobile.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    min-height: 211px;
+
+    &:before {
+        pointer-events: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        //background: linear-gradient(to top, rgba(0,0,0, 0.3) 0%, rgba(255,255,255,0.2) 50%,rgba(255,255,255,0.1) 80%);
+        content: "";
+    }
 }
 
 .navbar-brand {
@@ -9,6 +29,31 @@
     letter-spacing: 2px;
     font-size: 1.1rem;
     margin-right: 0;
+    text-shadow: 0px 0px 31px rgba(0,0,0,0.4);
+}
+
+.navbar-icons {
+    display: flex;
+    justify-content: center;
+
+    svg {
+        width: 1rem;
+        height: 1rem;
+        fill: rgba(255,255,255,0.9);
+        margin: 0.1rem;
+
+        &:hover {
+            fill: rgba(255,255,255,1);
+        }
+    }
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(255,255,255,0.8);
+
+    &:hover {
+        color: rgba(255,255,255,1);
+    }
 }
 
 .navbar-toggler {
@@ -26,11 +71,21 @@
     width: 100%;
     background: #fff;
     padding: 1rem;
-    box-shadow: 0px 0px 5px rgba(0,0,0,.2);
     z-index: 1;
 }
 
 @include media-breakpoint-up(sm) {
+    .navbar {
+        background-image: url(/assets/images/coding-in-the-beach-header-tablet.jpg);
+        min-height: 283px;
+    }
+    .navbar-icons {
+        svg {
+            width: 1.5rem;
+            height: 1.5rem;
+        }
+    }
+
     .navbar-brand {
         font-size: 2rem;
     }
@@ -39,14 +94,47 @@
 @include media-breakpoint-up(lg) {
     .navbar {
         flex-flow: row wrap;
+        background-image: url(/assets/images/coding-in-the-beach-header-desktop.jpg);
+        min-height: 240px;
     }
+
+    .navbar-icons {
+        position: relative;
+        bottom: -12px;
+    }
+
+        .navbar-brand {
+            position: relative;
+            bottom: -22px;
+        }
+
+    .navbar-light {
+        .navbar-collapse {
+            .navbar-nav {
+                .nav-link {
+                    color: #fff;
+                    text-shadow: 0px 0px 10px rgba(0,0,0,1);
+                    opacity: 0.9;
+
+                    &:hover {
+                        opacity: 1;
+                    }
+                }
+            }
+        }
+    }
+
     .navbar-collapse {
         box-shadow: none;
         background: transparent;
         position: relative;
+        top: -16px;
         padding-top: 0;
     }
         .navbar-nav {
             margin: 0 auto;
         }
+            .nav-link {
+                font-weight: 600;
+            }
 }

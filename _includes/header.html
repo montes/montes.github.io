@@ -4,7 +4,25 @@
 
     {% if page_paths %}
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+            <div class="navbar-brand-container">
+                <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+                <br>
+
+                <div class="navbar-icons">
+                    {% if site.github_username %}
+                        {% include icon-github.html username=site.github_username %}
+                    {% endif %}
+
+                    {% if site.twitter_username %}
+                        {% include icon-twitter.html username=site.twitter_username %}
+                    {% endif %}
+
+                    {% if site.email %}
+                        {% include icon-email.html email=site.email %}
+                    {% endif %}
+                </div>
+            </div>
+
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
