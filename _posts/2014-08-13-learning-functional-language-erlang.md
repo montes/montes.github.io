@@ -3,6 +3,9 @@ layout: post
 title: "Learning a functional language: Erlang"
 date: 2014-08-13 17:00:00 +0100
 thumbnail: "2014-08-13-learning-functional-language-erlang.jpg"
+categories:
+    - erlang
+
 ---
 Last years I’ve had some contact with Ruby, Python or Objective C, but it never has been something more than a first contact, it’s now since assisting to the WeLovePHP talks at [Softonic](https://www.softonic.com/) (Barcelona) when my interest for a more serious approach to functional languages has come. After some days reading about functional languages Erlang was the chosen, maybe because the hype of this days because of being [used at Facebook](http://www.quora.com/Why-was-Erlang-chosen-for-use-in-Facebook-chat), at [Amazon](http://en.wikipedia.org/wiki/Amazon_SimpleDB), or [Whatsapp](http://www.fastcolabs.com/3026758/inside-erlang-the-rare-programming-language-behind-whatsapps-success), or maybe because some of it’s unique characteristics.
 

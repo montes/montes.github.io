@@ -17,9 +17,18 @@ layout: default
                       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
                       <span class="post-meta">{{ post.date | date: date_format }}</span>
 
-                      <h2>
+                      <h2 class="post-list__title">
                         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
                       </h2>
+
+                      <div class="post-list__tags">
+                        {% assign sortedCategories = post.categories %}
+                        {% for category in sortedCategories %}
+                            <span class="tag">
+                                <a href="/category/{{ category }}">#{{ category }}</a>
+                            </span>
+                        {% endfor %}
+                      </div>
                   </td>
               </tr>
           </table>

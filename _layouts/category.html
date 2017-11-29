@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<div class="category row justify-content-center">
+  <h1 class="col-12 col-lg-8">Filed Under <small>#{{ page.tag }}</small></h1>
+
+  <ul class="post-list list-unstyled col-12 col-lg-8">
+    {% for post in site.categories[page.tag] %}
+    <li>
+        <table>
+            <tr>
+                <td>
+                    {% if post.thumbnail %}
+                        <img class="post-thumbnail" src="{{ site.images_path }}{{ post.thumbnail }}" alt="{{ post.title }}">
+                    {% endif %}
+                </td>
+                <td>
+                    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                    <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+                    <h2 class="post-list__title">
+                      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                    </h2>
+
+                    <div class="post-list__tags">
+                      {% assign sortedCategories = post.categories %}
+                      {% for category in sortedCategories %}
+                          <span class="tag">
+                              <a href="/category/{{ category }}">#{{ category }}</a>
+                          </span>
+                      {% endfor %}
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </li>
+  {% endfor %}
+</ul>
+{% comment %}
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+{% endcomment %}
+</div>

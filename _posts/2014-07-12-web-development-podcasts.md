@@ -3,6 +3,8 @@ layout: post
 title: "Web Development Podcasts"
 date: 2014-07-12 17:00:00 +0100
 thumbnail: "2014-07-12-web-development-podcasts.jpg"
+categories:
+    - frontend
 ---
 I cannot live a week without listening to several podcasts, it's a good way to keep yourself up to date while doing a task that doesn’t allow you to read or watch videos, like driving or cleaning.
 
