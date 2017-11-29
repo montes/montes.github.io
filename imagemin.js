@@ -3,10 +3,10 @@ const imageminJpegRecompress = require('imagemin-jpeg-recompress');
 
 imagemin(['assets/images-src/*.jpg'], 'assets/images', {
 	plugins: [
-		imageminJpegRecompress({'quality': 'low',
+		imageminJpegRecompress({'quality': 'high',
 			'accurate': true,
-			'min': 35,
-			'max': 40})
+			'min': 65,
+			'max': 80})
 	]
 }).then(() => {
 	console.log('Images optimized');
