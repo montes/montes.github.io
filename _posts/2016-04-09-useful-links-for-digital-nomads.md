@@ -2,6 +2,7 @@
 layout: post
 title: "Useful links for digital nomads"
 date: 2016-04-09 17:00:00 +0100
+thumbnail: "2016-04-09-useful-links-for-digital-nomads.jpg"
 ---
 ## Events
 * [DNX – Digitale Nomaden Konferenz (Berlin) 6-8 May](http://www.dnx-berlin.de/)

@@ -2,6 +2,7 @@
 layout: post
 title:  "Sublime Text 2: Bracket Highlighter"
 date:   2012-09-19 20:01:15 +0100
+thumbnail: "2012-09-19-sublime-text-2-bracket-highlighter.jpg"
 categories:
 ---
 [Bracket Highlighter][bracket-highlighter] is a very nice Sublime Text 2 plugin that does exactly what it’s name suggest, here is an example:

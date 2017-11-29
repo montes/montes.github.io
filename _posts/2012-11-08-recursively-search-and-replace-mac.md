@@ -2,6 +2,7 @@
 layout: post
 title: "Recursively search & replace that works on mac"
 date: 2012-11-08 17:00:00 +0100
+thumbnail: "2012-11-08-recursively-search-and-replace-mac.jpg"
 ---
 After testing a lot of combinations, at last one that works perfect!
 

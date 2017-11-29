@@ -6,12 +6,23 @@ layout: default
   <ul class="post-list list-unstyled col-12 col-lg-8">
     {% for post in site.posts %}
       <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <table>
+              <tr>
+                  <td>
+                      {% if post.thumbnail %}
+                          <img class="post-thumbnail" src="{{ site.images_path }}{{ post.thumbnail }}" alt="{{ post.title }}">
+                      {% endif %}
+                  </td>
+                  <td>
+                      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                      <span class="post-meta">{{ post.date | date: date_format }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
+                      <h2>
+                        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                      </h2>
+                  </td>
+              </tr>
+          </table>
       </li>
     {% endfor %}
   </ul>

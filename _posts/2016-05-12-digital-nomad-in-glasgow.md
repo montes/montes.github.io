@@ -2,6 +2,7 @@
 layout: post
 title: "Digital nomad in Glasgow"
 date: 2016-05-12 17:00:00 +0100
+thumbnail: "2016-05-12-digital-nomad-in-glasgow.jpg"
 ---
 Glasgow is the biggest scottish city but not the most touristic, that's for Edinburgh and the most industrial prize for Glasgow.
 

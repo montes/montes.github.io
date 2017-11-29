@@ -2,6 +2,7 @@
 layout: post
 title: "Prestashop 1.6 Theme Sass Compiling"
 date: 2015-02-24 17:00:00 +0100
+thumbnail: "2015-02-24-prestashop-theme-sass-compiling.jpg"
 ---
 From version 1.6 the Prestashop default theme is developed using Sass, this means that the CSS of the theme is not written directly, is obtained after compiling the Sass files.
 

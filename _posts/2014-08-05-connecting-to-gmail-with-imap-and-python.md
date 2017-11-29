@@ -2,6 +2,7 @@
 layout: post
 title: "Connecting to Gmail with IMAP and Python"
 date: 2014-08-05 17:00:00 +0100
+thumbnail: "2014-08-05-connecting-to-gmail-with-imap-and-python.jpg"
 ---
 ## Solving a problem: "auto emails" to remind URLs
 

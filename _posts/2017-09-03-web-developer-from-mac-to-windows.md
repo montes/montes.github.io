@@ -2,6 +2,7 @@
 layout: post
 title: "Web Developer: From Mac to Windows"
 date: 2017-09-03 17:00:00 +0100
+thumbnail: "2017-09-03-web-developer-from-mac-to-windows-thumbnail.jpg"
 ---
 It’s been more than a year since the first time this idea came to my head, moving to Windows after so many happy years on Mac. It was really a mixture of at least three things: a need of more **battery life**, Windows 10 apparently being a decent OS (and with **Ubuntu shell**!) and Apple going crazy **removing ports and welding everything**.
 

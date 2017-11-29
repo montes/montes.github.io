@@ -2,6 +2,7 @@
 layout: post
 title: "USB TDT (DVB-T) HD for Ubuntu, OSX and Windows"
 date: 2010-11-29 17:00:00 +0100
+thumbnail: "2010-11-29-usb-tdt-dvb-t-hd-ubuntu-osx-windows.jpg"
 ---
 I've been long time searching for a card or USB TDT HD compatible with all three main Operating Systems I use and in the end I found it, is the WinTV NOVA-T-HD:
 

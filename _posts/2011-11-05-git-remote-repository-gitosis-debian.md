@@ -2,6 +2,7 @@
 layout: post
 title: "Our own git remote repository with Gitosis and Debian"
 date: 2011-11-05 17:00:00 +0100
+thumbnail: "2011-11-05-git-remote-repository-gitosis-debian.jpg"
 ---
 There are many options for having a private remote git repository on the internet like for example Github, that is free for public repositories but not for private ones.
 

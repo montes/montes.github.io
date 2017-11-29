@@ -2,6 +2,7 @@
 layout: post
 title: "Testing APIs, HTTPie y Postman"
 date: 2014-07-29 17:00:00 +0100
+thumbnail: "2014-07-29-testing-apis-httpie-postman.jpg"
 ---
 Do you do some API testing? some http stuff? If you didn’t know these tools before, you are going to be very happy today!
 
