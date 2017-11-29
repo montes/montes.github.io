@@ -6,7 +6,7 @@ imagemin(['assets/images-src/*.jpg'], 'assets/images', {
 		imageminJpegRecompress({'quality': 'low',
 			'accurate': true,
 			'min': 35,
-			'max': 45})
+			'max': 40})
 	]
 }).then(() => {
 	console.log('Images optimized');
