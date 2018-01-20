@@ -1,5 +1,15 @@
 
 .post {
+    max-width: 740px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+
+    iframe {
+        margin-top: 14px !important;
+        margin-bottom: 14px !important;
+    }
+
     img {
         display: block;
         margin: 0 auto;
@@ -18,5 +28,11 @@
     h4 {
         margin-top: 1.5rem;
         margin-bottom: 1rem;
+    }
+}
+
+@include media-breakpoint-up(sm) {
+    .post {
+        font-size: 21px;
     }
 }
