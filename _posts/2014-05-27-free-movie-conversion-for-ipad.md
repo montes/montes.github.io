@@ -5,6 +5,7 @@ date: 2014-06-27 17:00:00 +0100
 thumbnail: "2014-05-27-free-movie-conversion-for-ipad.jpg"
 categories:
     - apple
+comments: true    
 ---
 Do you have movies that you want to see in your iPad with the best quality/compression? Aren't you afraid of OSX terminal? Then let's go to learn something new!
 

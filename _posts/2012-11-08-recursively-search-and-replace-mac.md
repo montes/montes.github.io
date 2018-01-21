@@ -5,6 +5,7 @@ date: 2012-11-08 17:00:00 +0100
 thumbnail: "2012-11-08-recursively-search-and-replace-mac.jpg"
 categories:
     - apple
+comments: true    
 ---
 After testing a lot of combinations, at last one that works perfect!
 

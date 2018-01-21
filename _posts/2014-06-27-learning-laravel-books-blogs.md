@@ -6,6 +6,7 @@ thumbnail: "2014-06-27-learning-laravel-books-blogs.jpg"
 categories:
     - laravel
     - backend
+comments: true    
 ---
 With this post I want to start a series of posts about [Laravel](https://laravel.com/), the PHP framework that I’ve already used in two projects and I’ve been very pleasantly surprised with. If you are curious one of them is a personal project (sorry only in spanish): [Acuestas](https://acuestas.es/).
 

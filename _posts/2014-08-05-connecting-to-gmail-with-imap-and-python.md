@@ -5,6 +5,7 @@ date: 2014-08-05 17:00:00 +0100
 thumbnail: "2014-08-05-connecting-to-gmail-with-imap-and-python.jpg"
 categories:
     - python
+comments: true    
 ---
 ## Solving a problem: "auto emails" to remind URLs
 

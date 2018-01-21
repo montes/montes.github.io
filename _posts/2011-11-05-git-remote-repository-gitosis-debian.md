@@ -6,6 +6,7 @@ thumbnail: "2011-11-05-git-remote-repository-gitosis-debian.jpg"
 categories:
     - sysadmin
     - git
+comments: true    
 ---
 There are many options for having a private remote git repository on the internet like for example Github, that is free for public repositories but not for private ones.
 

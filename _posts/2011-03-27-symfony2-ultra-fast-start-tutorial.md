@@ -6,6 +6,7 @@ thumbnail: "2011-03-27-symfony2-ultra-fast-start-tutorial.jpg"
 categories:
     - symfony
     - backend
+comments: true    
 ---
 _NOTE: This tutorial has been made with Ubuntu 11.04 – Natty Narwhal, it hasn’t been tested on other OSs. This is some kind of cheat sheet to help you if you forget something basic about symfony2, but you obviously must read symfony2 documentation to know what’s all this about [http://symfony.com/doc/2.0/book/index.html](http://symfony.com/doc/2.0/book/index.html)_
 

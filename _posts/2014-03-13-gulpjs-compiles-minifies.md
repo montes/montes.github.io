@@ -5,6 +5,7 @@ date: 2014-03-03 17:00:00 +0100
 thumbnail: "2014-03-13-gulpjs-compiles-minifies.jpg"
 categories:
     - frontend
+comments: true    
 ---
 Lately I see a lot of comments on twitter about [gulp.js](http://gulpjs.com/), as they say gulp is something like if [Grunt](http://gruntjs.com/) had put on a diet.
 
