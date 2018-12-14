@@ -17,7 +17,7 @@ title: Montes Remote Developer
 author: Javier Montes
 email: jmontes@acuestas.es
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://montesremotedevev.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://montesremotedev.com" # the base hostname & protocol for your site, e.g. http://example.com
 images_path: "/assets/images/"
 twitter_username: montesremotedev
 github_username: montes
