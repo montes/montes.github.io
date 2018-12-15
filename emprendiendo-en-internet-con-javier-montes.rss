@@ -21,8 +21,8 @@
 		</image>
 		<itunes:subtitle>Emprende en internet y gana dinero online</itunes:subtitle>
 		<itunes:author>Javier Montes</itunes:author>
-		<itunes:summary>Todo lo relacionado con ganar dinero en internet, ejemplos prácticos, todas las opciones, novedades...</itunes:summary>
-		<itunes:keywords>{{ site.keywords }}</itunes:keywords>
+		<itunes:summary>Todo lo relacionado con ganar dinero en internet, ejemplos prácticos, todas las opciones, novedades... Más información en mi web https://montesremotedev.com y en mi twitter https://twitter.com/montesremotedev</itunes:summary>
+		<itunes:keywords>emprender, internet, dinero, ecommerce, dropshipping, adwords</itunes:keywords>
 		<itunes:owner>
 			<itunes:name>Javier Montes</itunes:name>
 			<itunes:email>kalimocho@gmail.com</itunes:email>
