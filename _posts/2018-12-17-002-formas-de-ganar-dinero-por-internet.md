@@ -2,6 +2,7 @@
 layout: post
 title: "002 - Formas de ganar dinero en internet"
 date: 2018-12-17 06:00:00 +0100
+thumbnail: "2018-12-17-002-formas-de-ganar-dinero-por-internet.png"
 file: /assets/podcasts/emprendiendo/002-emprendiendo-en-internet-con-javier-montes--formas-de-ganar-dinero-en-internet.mp3
 file_m4a: /assets/podcasts/emprendiendo/002-emprendiendo-en-internet-con-javier-montes--formas-de-ganar-dinero-en-internet.m4a
 categories:

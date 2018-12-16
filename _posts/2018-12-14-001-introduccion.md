@@ -2,6 +2,7 @@
 layout: post
 title: "001 - Introduccion"
 date: 2018-12-14 23:27:00 +0100
+thumbnail: "2018-12-14-001-introduccion.png"
 file: /assets/podcasts/emprendiendo/001-emprendiendo-en-internet-con-javier-montes--introduccion.mp3
 file_m4a: /assets/podcasts/emprendiendo/001-emprendiendo-en-internet-con-javier-montes--introduccion.m4a
 categories:
