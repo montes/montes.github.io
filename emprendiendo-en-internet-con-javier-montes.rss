@@ -45,7 +45,7 @@
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
-				<itunes:image href="{{ site.url }}/images/itunes.png" />
+				<itunes:image href="{{ site.url }}/assets/images/emprendiendo-en-internet-con-javier-montes.png" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
 			</item>
