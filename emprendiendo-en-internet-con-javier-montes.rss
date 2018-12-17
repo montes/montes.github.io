@@ -39,7 +39,6 @@
 				<description>{{ post.excerpt | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 				<enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3" />
-                <enclosure url="{{ post.file_m4a }}" length="{{ post.length }}" type="audio/x-m4a" />
 				<itunes:author>Javier Montes</itunes:author>
 				<itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
