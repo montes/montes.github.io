@@ -3,8 +3,8 @@ layout: post
 title: "002 - Formas de ganar dinero en internet"
 date: 2018-12-17 06:00:00 +0100
 thumbnail: "2018-12-17-002-formas-de-ganar-dinero-por-internet.png"
-file: /assets/podcasts/emprendiendo/002-emprendiendo-en-internet-con-javier-montes--formas-de-ganar-dinero-en-internet.mp3
-file_m4a: /assets/podcasts/emprendiendo/002-emprendiendo-en-internet-con-javier-montes--formas-de-ganar-dinero-en-internet.m4a
+file: https://acuestas.es/podcasts/emprendiendo/002-emprendiendo-en-internet-con-javier-montes--formas-de-ganar-dinero-en-internet.mp3
+file_m4a: https://acuestas.es/podcasts/emprendiendo/002-emprendiendo-en-internet-con-javier-montes--formas-de-ganar-dinero-en-internet.m4a
 categories:
     - "podcast_emprendiendo"
 excerpt: "Este es el segundo episodio de Emprendiendo en internet con Javier Montes, os hablaré sobre las formas más habituales de ganar dinero en internet y en la segunda parte del programa comenzaré con la sección de mis avances que hoy consistirá en explicaros cómo empecé este podcast y cómo podéis hacerlo vosotros.
