@@ -6,7 +6,7 @@
 	<channel>
 		<atom:link href="{{ site.url }}/emprendiendo-en-internet-con-javier-montes.rss" rel="self" type="application/rss+xml" />
 		<title>Emprendiendo en internet con Javier Montes</title>
-		<description>Todo lo relacionado con ganar dinero en internet, ejemplos prácticos, todas las opciones, novedades...</description>
+		<description>Todo lo relacionado con ganar dinero en internet, ejemplos prácticos, todas las opciones, novedades... desde mi punto de vista personal.</description>
 		<link>{{ site.url }}</link>
 		<language>es</language>
 		<managingEditor>{{ site.email }} (Javier Montes)</managingEditor>

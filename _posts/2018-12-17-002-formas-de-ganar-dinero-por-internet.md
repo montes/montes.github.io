@@ -37,4 +37,11 @@ duration: "19:12"
 length: "27613353" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
+comments: true
 ---
+
+## Podcast Emprendiendo en internet con Javier Montes: Formas de ganar dinero por internet
+
+Puedes escuchar o suscribirte al podcast en <a href="https://www.ivoox.com/podcast-emprendiendo-internet-javier-montes_sq_f1644992_1.html">iVoox</a>.
+
+Si lo prefieres aquí tienes el archivo de este segundo episodio: <a href="https://acuestas.es/podcasts/emprendiendo/002-emprendiendo-en-internet-con-javier-montes--formas-de-ganar-dinero-en-internet.mp3">Descargar</a>
