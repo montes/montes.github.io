@@ -50,6 +50,10 @@ Si lo prefieres aquí tienes el archivo de este segundo episodio: <a href="https
 
 ### Episodio 003: Trabajo en remoto
 
+1. [Trabajar para una empresa](#1-trabajar-para-una-empresa)
+1. [Mi experiencia de 7 años trabajando en remoto](#2-mi-experiencia)
+1. [Mis avances](#3-mis-avances)
+
 Hola, soy Javier Montes, bienvenida/bienvenido a este tercer episodio, hoy quiero hablaros del trabajo de toda la vida cuando se hace a través de internet, tanto en remoto como de freelance. Siempre desde mi punto de vista, sin querer abarcar todo lo que existe o explicar cosas que no conozco, pero sí que entremos un poco en este mundo de trabajar en remoto.
 
 #### 1. Trabajar para una empresa
@@ -70,7 +74,7 @@ Dónde encontrar los trabajos, pues a parte de las páginas normales de **trabaj
 
 también hay muchos trabajos en empresas españolas que no aparecen en estas webs y se ofertan normalmente que ofrecen posibilidad en toda la semana o en parte en remoto. Cada vez más.
 
-#### 2. Mi experiencia
+#### 2. Mi experiencia de 7 años trabajando en remoto
 
 Ahora os contaré un poco mi experiencia. En mi caso **empecé en remoto hace ya 7 años** y a día de hoy sigo trabajando para la misma empresa, yo trabajo de programador y estamos especializados en tiendas online, si necesitáis ayuda en este sector, seguramente podremos ayudaros. Yo soy un enamorado de esta forma de trabajo, tanto que si tuviese que cambiar de trabajo o incluso de sector, siempre **dejaría como última opción** ya si no hubiese más remedio, el **buscar un trabajo que no fuese en remoto**.
 
