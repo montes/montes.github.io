@@ -44,5 +44,5 @@ Puedes escuchar o suscribirte al podcast en:
 <li><a href="https://open.spotify.com/show/57o7sS6plOSmYHvncI7poF?si=ieUPpQe9Qxq3fAdf_Qqf0g">Spotify (enlace directo al podcast)</a></li>
 </ul>
 
-Si lo prefieres aquí tienes el archivo de este cuarto episodio: <a href="https://acuestas.es/podcasts/emprendiendo/003-emprendiendo-en-internet-con-javier-montes--trabajo-en-remoto.mp3">Descargar</a>
+Si lo prefieres aquí tienes el archivo de este cuarto episodio: <a href="https://acuestas.es/podcasts/emprendiendo/004-emprendiendo-en-internet-con-javier-montes--amazon-afiliados.mp3">Descargar</a>
 
