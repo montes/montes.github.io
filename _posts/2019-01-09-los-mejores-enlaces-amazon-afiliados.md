@@ -15,7 +15,9 @@ Voy a ir añadiendo aquí los mejores enlaces que encuentre que nos ayuden a **g
 ## Especialistas
 
 * [Dean Romero](https://twitter.com/deanromero10)
+* [José Marquez](https://twitter.com/JoseMarquezSEO)
 * [Marius Camacho](https://twitter.com/_mariuscg)
+* [Miguel Ángel Almela](https://twitter.com/miguealmela)
 * [Mijael Fandiño](https://twitter.com/mijael166)
 * [Pau Forner Navarro](https://twitter.com/pau4navarro)
 * [Rafa Sospedra](https://twitter.com/rafsos)
@@ -380,6 +382,7 @@ Themes específicos para Amazon Afiliados o que encajan perfectamente con sólo 
 
 ## Canales de Youtube
 * [Romuald Fons](https://www.youtube.com/channel/UCdZBLznygSwo7iHbydGtxaw)
+* [Cantina Marketera](https://www.youtube.com/channel/UCUh49rZ97zug9JyVTiJrC5w)
 
 ## Podcasts
 * [Campamento Web](https://campamentoweb.com/)
@@ -413,5 +416,5 @@ Themes específicos para Amazon Afiliados o que encajan perfectamente con sólo 
 * [eBay](https://partnernetwork.ebay.com/)
 * [AliExpress](https://portals.aliexpress.com/)
 * [Envato Market](https://envato.com/market/affiliate-program/) 30% en compras de nuevo usuario
-
+* [Booking](https://www.booking.com/affiliate-program/v2/index.html)
 
