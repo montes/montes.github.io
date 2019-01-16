@@ -9,7 +9,7 @@ categories:
 comments: true
 ---
 
-*Post en continua actualización (última: 13/01/2019).*
+*Post en continua actualización (última: 16/01/2019).*
 Voy a ir añadiendo aquí los mejores enlaces que encuentre que nos ayuden a **ganar dinero con Amazon Afiliados**.
 
 ## Especialistas
@@ -387,6 +387,9 @@ Themes específicos para Amazon Afiliados o que encajan perfectamente con sólo 
 ## Podcasts
 * [Campamento Web](https://campamentoweb.com/)
 * [Blogger 3.0](https://www.ivoox.com/podcast-blogger-3-0_sq_f1572568_1.html)
+
+## Guías linkbuilding
+* [Link building para nichos](https://seoparanichos.com/link-building/)
 
 ## Servicios de contenido, posts patrocinados y linkbuilding
 * <a rel="nofollow" href="https://www.publisuites.com/">Publisuites</a>
