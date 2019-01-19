@@ -22,7 +22,7 @@ There was one week left from my *You Need a Budget* trial, I was very happy with
 ## 1. YNAB vs Google Spreadsheets
 There are tons of free Spreadsheets trying to mimic *You Need a Budget*
 
-I discarded all ot them because I simply don't like their usability/look, they don't feel *right*.
+I discarded all of them because I simply don't like their usability/look, they don't feel *right*.
 
 These are two of the best:
 
@@ -71,7 +71,7 @@ Similar functionality than YNAB and good price, but in my honest opinion the **u
 
 ## 7. The best YNAB alternative! financier.io (free - 12$/year)
 
-This is my opinion off course, but if what you are searching for is **something similar to YNAB** but with a **better price**, and you don't need the mobile app or automatic accounts, this is **the best**!
+This is my opinion of course, but if what you are searching for is **something similar to YNAB** but with a **better price**, and you don't need the mobile app or automatic accounts, this is **the best**!
 
 And if this wasn't enough, there is a free version! the paid version has syncing (the free one lives in your browser).
 
