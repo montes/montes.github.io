@@ -9,7 +9,7 @@ categories:
 comments: true
 ---
 
-*Post en continua actualización (última: 16/01/2019).*
+*Post en continua actualización (última: 18/01/2019).*
 Voy a ir añadiendo aquí los mejores enlaces que encuentre que nos ayuden a **ganar dinero con Amazon Afiliados**.
 
 ## Especialistas
@@ -418,6 +418,6 @@ Themes específicos para Amazon Afiliados o que encajan perfectamente con sólo 
 
 * [eBay](https://partnernetwork.ebay.com/)
 * [AliExpress](https://portals.aliexpress.com/)
-* [Envato Market](https://envato.com/market/affiliate-program/) 30% en compras de nuevo usuario
+* [Envato Market](https://envato.com/market/affiliate-program/) 30% en compras de nuevo usuario (Si tu site tiene poco tráfico te denegarán el alta)
 * [Booking](https://www.booking.com/affiliate-program/v2/index.html)
 
