@@ -54,8 +54,8 @@ I will update this numbers each month.
 * Posted Youtube [Montes Remote Dev channel](https://www.youtube.com/channel/UCmPFJ4kCzhK38iBMq6Y2nlw) Videos: **3**
 * Posted Youtube [Javier Montes channel](https://www.youtube.com/channel/UCfbDeLomhGBTwmefbw7vm1w): **0**
 * Amazon affiliates earnings: **0€** 🤕
-* [montesremotedev.com](https://montesremotedev.com) month unique users:
-* [acuestas.es](https://acuestas.es) month unique users:
+* [montesremotedev.com](https://montesremotedev.com) month unique users: 73
+* [acuestas.es](https://acuestas.es) month unique users: 25,406
 * **Started** [mejores.cc](https://mejores.cc) (Amazon affiliate)
 * **Started** [techforjim.com](https://techforjim.com) (Amazon affiliate)
 * **Starting** Robot JIM (SaaS)
