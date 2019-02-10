@@ -9,7 +9,7 @@ categories:
 comments: true
 ---
 
-*Post en continua actualización (última: 18/01/2019).*
+*Post en continua actualización (última: 10/02/2019).*
 Voy a ir añadiendo aquí los mejores enlaces que encuentre que nos ayuden a **ganar dinero con Amazon Afiliados**.
 
 ## Especialistas
@@ -28,6 +28,7 @@ Voy a ir añadiendo aquí los mejores enlaces que encuentre que nos ayuden a **g
 * [50 ejemplos de webs de nicho exitosas (inglés)](https://walletsquirrel.com/amazon-affiliate-website-examples/)
 *  El **Reto Amazon** de [Marius Camacho](https://twitter.com/_mariuscg): [1](http://mariusmarketing.com/afiliados-amazon-parte-1/), [2](http://mariusmarketing.com/reto-amazon-2-contenidos/), [3](http://mariusmarketing.com/reto-amazon-3-diciembre/), [4 y 5](http://mariusmarketing.com/reto-amazon-4-y-5-enero-febrero/) y [Final](http://mariusmarketing.com/reto-amazon-final/)
 * [Guía completa Amazon Afiliados (unavidaonline)](https://unavidaonline.com/amazon-afiliados/)
+* [Presentación Clinic SEO: SEO para afiliados](https://www.clinic.is/presentacion-ponencia-seo-para-afiliados.html)
 
 ## Guías en vídeo
 
@@ -38,6 +39,17 @@ Voy a ir añadiendo aquí los mejores enlaces que encuentre que nos ayuden a **g
 * Usar nofollow en los enlaces patrocinados (por SEO, no por Amazon)
 * Si muestras precios es obligatorio que estén actualizados
 * El usuario tiene que saber previamente que al hacer click irá a Amazon
+* No usar dominios que incluyan el nombre de una marca
+* Cada país necesita su código de afiliado (no es igual España que Mexico o USA)
+* [Cookie stuffing (black hat)](https://www.sectorx.com.ar/cookie-stuffing-somos-parte-fraude-millones-dolares-sin-darnos-cuenta/)
+
+## Herramientas
+* [Lo más vendido en Amazon](https://www.amazon.es/gp/bestsellers)
+* [JungleScout](https://www.junglescout.com/)
+* [SEMrush](https://es.semrush.com)
+
+## Para buscar colaboradores
+* [Workana](https://www.workana.com/)
 
 ## Plugins Wordpress
 
@@ -416,8 +428,14 @@ Themes específicos para Amazon Afiliados o que encajan perfectamente con sólo 
 
 ## Otros programas de afiliados interesantes
 
+* [Amazon (cookie 24h)](https://afiliados.amazon.es)
 * [eBay](https://partnernetwork.ebay.com/)
-* [AliExpress](https://portals.aliexpress.com/)
+* [AliExpress (cookie 30 días)](https://portals.aliexpress.com/)
 * [Envato Market](https://envato.com/market/affiliate-program/) 30% en compras de nuevo usuario (Si tu site tiene poco tráfico te denegarán el alta)
 * [Booking](https://www.booking.com/affiliate-program/v2/index.html)
+* [Tradedoubler](https://www.tradedoubler.com)
+* [Admitad](https://www.admitad.com)
+* [Awin](https://www.awin.com)
+* [TradeTracker](https://tradetracker.com/)
+* [CJ affiliate](https://www.cj.com/)
 
