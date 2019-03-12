@@ -44,11 +44,11 @@ Start making money that come independently from if I'm working or not (passive?)
 
 I will update this numbers each month.
 
-### January 2019
+### January 2019 ---------------------
 * New [podcast](/category/podcast_emprendiendo) episodes (spanish): **3**
 * New [blog](https://montesremotedev.com) posts: **2**
 * New [Tweets](https://twitter.com/montesremotedev) posted: **17**
-* New [twitter](https://twitter.com/montesremotedev) followers: **608** (+2)
+* [twitter](https://twitter.com/montesremotedev) followers: **608** (+2)
 ![montesremotedev twitter](/assets/images/twitter-2019-jan-montesremotedev.png "montesremotedev twitter")
 * Signed up at [Makerlog](https://getmakerlog.com/@montesremotedev)
 * Posted Youtube [Montes Remote Dev channel](https://www.youtube.com/channel/UCmPFJ4kCzhK38iBMq6Y2nlw) Videos: **3**
@@ -62,3 +62,16 @@ I will update this numbers each month.
 
 #### Total January earnings: 0€ (ouch!)
 
+### February 2019 ---------------------
+
+In February I almost stopped everything else to **speed up [robotjim.com](https://robotjim.com)**, I want to launch on April and I think I was doing too many different things, it has happened other times that I try to doo to many things and in the end I don't complete any 🙈
+
+* 🎙️ No new podcast episodes, blog posts or youtube videos this month!
+* 💶 Amazon affiliates earnings: **0€** 🤕
+* 🐦 [twitter](https://twitter.com/montesremotedev) followers: **613** (+5)
+* 👥 [montesremotedev.com](https://montesremotedev.com) month unique users: **111** (+38)
+* 👥 [acuestas.es](https://acuestas.es) month unique users: **26,949** (+1,543)
+* 💽 Migrated my server to a new better one from [www.kimsufi.com](https://www.kimsufi.com) to [www.soyoustart.com](https://www.soyoustart.com) (both from [OVH](https://www.ovh.com))
+* ⌨️ Finished and published new [acuestas.es](https://acuestas.es) version, with tons of fixes and changes, updated from Laravel 4.2 to 5.8 and with some React parts (like the new ads form)
+* ⌨️ Put A LOT of work on [robotjim.com](https://robotjim.com) and learnt how to use [d3js](https://d3js.org/) in the process
+![robotjim](https://pbs.twimg.com/media/D1YsjxrXgAYljEy.jpg "Robot Jim")
