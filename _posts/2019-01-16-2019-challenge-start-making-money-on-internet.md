@@ -75,3 +75,17 @@ In February I almost stopped everything else to **speed up [robotjim.com](https:
 * ⌨️ Finished and published new [acuestas.es](https://acuestas.es) version, with tons of fixes and changes, updated from Laravel 4.2 to 5.8 and with some React parts (like the new ads form)
 * ⌨️ Put A LOT of work on [robotjim.com](https://robotjim.com) and learnt how to use [d3js](https://d3js.org/) in the process
 ![robotjim](https://pbs.twimg.com/media/D1YsjxrXgAYljEy.jpg "Robot Jim")
+
+#### Total February earnings: 0€ (ouch!)
+
+### March 2019 ---------------------
+
+In March I put again a lot of hours on Robot Jim while almost finished the first beta version. Also some hours to Acuestas fixing some bugs.
+
+* 🎙️ No new podcast episodes, blog posts or youtube videos this month!
+* 💶 Amazon affiliates earnings: **18.92€** 🤑
+* 🐦 [twitter](https://twitter.com/montesremotedev) followers: **619** (+6)
+* 👥 [montesremotedev.com](https://montesremotedev.com) month unique users: **125** (+14)
+* 👥 [acuestas.es](https://acuestas.es) month unique users: **37,736** (+10,787)
+
+#### Total March earnings: 18.92€
