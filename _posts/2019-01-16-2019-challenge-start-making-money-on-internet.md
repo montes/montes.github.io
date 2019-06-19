@@ -100,6 +100,20 @@ In April I made a pause with Robot Jim and I have started putting hours to mejor
 * 👥 [montesremotedev.com](https://montesremotedev.com) month unique users: **130** (+5)
 * 👥 [acuestas.es](https://acuestas.es) month unique users: **40,564** (+2,828)
 
-#### Total March earnings: 5.56€
-#### Total March spendings: 50.40€ (hosting, domains and proxies)
+#### Total April earnings: 5.56€
+#### Total April spendings: 50.40€ (hosting, domains and proxies)
 #### RESULT: -44.84€ 😭😭😭
+
+### May 2019 ---------------------
+
+In May I was slowly adding hours to Robot Jim again and I continued putting a lot of hours to mejores.cc.
+
+* 🎙️ No new podcast episodes, blog posts or youtube videos this month!
+* 💶 Amazon affiliates earnings: **70.63€** 🤑
+* 🐦 [twitter](https://twitter.com/montesremotedev) followers: **615** (-2)
+* 👥 [montesremotedev.com](https://montesremotedev.com) month unique users: **354** (+224)
+* 👥 [acuestas.es](https://acuestas.es) month unique users: **39,852** (-712)
+
+#### Total May earnings: 70.63€
+#### Total May spendings: 41.99€ (hosting, domains and proxies)
+#### RESULT: +28.64€ 🤗
