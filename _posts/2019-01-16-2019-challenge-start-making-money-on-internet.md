@@ -107,6 +107,7 @@ In April I made a pause with Robot Jim and I have started putting hours to mejor
 ### May 2019 ---------------------
 
 In May I was slowly adding hours to Robot Jim again and I continued putting a lot of hours to mejores.cc.
+Added paid VIP mode to acuestas.es ads as a try to start monetizing.
 
 * 🎙️ No new podcast episodes, blog posts or youtube videos this month!
 * 💶 Amazon affiliates earnings: **70.63€** 🤑
