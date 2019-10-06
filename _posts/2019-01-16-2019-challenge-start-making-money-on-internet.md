@@ -44,6 +44,7 @@ Start making money that come independently from if I'm working or not (passive?)
 
 I will update this numbers each month.
 
+---------------------
 ### January 2019 ---------------------
 * New [podcast](/category/podcast_emprendiendo) episodes (spanish): **3**
 * New [blog](https://montesremotedev.com) posts: **2**
@@ -62,6 +63,7 @@ I will update this numbers each month.
 
 #### Total January earnings: 0€ (ouch!)
 
+---------------------
 ### February 2019 ---------------------
 
 In February I almost stopped everything else to **speed up [robotjim.com](https://robotjim.com)**, I want to launch on April and I think I was doing too many different things, it has happened other times that I try to doo to many things and in the end I don't complete any 🙈
@@ -78,6 +80,7 @@ In February I almost stopped everything else to **speed up [robotjim.com](https:
 
 #### Total February earnings: 0€ (ouch!)
 
+---------------------
 ### March 2019 ---------------------
 
 In March I put again a lot of hours on Robot Jim while almost finished the first beta version. Also some hours to Acuestas fixing some bugs.
@@ -90,6 +93,7 @@ In March I put again a lot of hours on Robot Jim while almost finished the first
 
 #### Total March earnings: 18.92€
 
+---------------------
 ### April 2019 ---------------------
 
 In April I made a pause with Robot Jim and I have started putting hours to mejores.cc after realizing that it started making money. I've also made some fixes to acuestas.es
@@ -104,6 +108,7 @@ In April I made a pause with Robot Jim and I have started putting hours to mejor
 #### Total April spendings: 50.40€ (hosting, domains and proxies)
 #### RESULT: -44.84€ 😭😭😭
 
+---------------------
 ### May 2019 ---------------------
 
 In May I was slowly adding hours to Robot Jim again and I continued putting a lot of hours to mejores.cc.
@@ -118,3 +123,33 @@ Added paid VIP mode to acuestas.es ads as a try to start monetizing.
 #### Total May earnings: 70.63€
 #### Total May spendings: 41.99€ (hosting, domains and proxies)
 #### RESULT: +28.64€ 🤗
+
+---------------------
+### June, July, August and September 2019 ---------------------
+
+So many things happened this 4 months!
+
+We moved out from our flat in Barcelona
+
+![Barcelona move](/assets/images/barcelona-move-out-van.jpg "Barcelona move")
+
+We went to Colombia for three months
+
+![Colombia](/assets/images/colombia.jpg "Colombia")
+
+And now we are in [Asturias](https://en.wikipedia.org/wiki/Asturias) for one month.
+
+I registered in [nomadlist.com](https://nomadlist.com). I created some additional affiliate sites, I've put tons of hours trying to make them useful to users and I've got my first paid customer in [acuestas.es](https://acuestas.es). I earnt globally **1,339€**!!! Not bad, taking into account these are my first euros! and I'm starting to believe this challenge of mine is possible 😍
+
+I'm now more focused than ever, affiliate sites and [robotjim.com](https://robotjim.com) are my bets.
+
+* 🎙️ No new podcast episodes, blog posts or youtube videos this months!
+* 💶 Amazon affiliates earnings: **1,329€** 🤑🤑🤑
+* 🐦 [twitter](https://twitter.com/montesremotedev) followers (September): **616** (+1)
+* 👥 [montesremotedev.com](https://montesremotedev.com) month unique users (September): **4,732** (+4,369)
+* 👥 [acuestas.es](https://acuestas.es) month unique users (September): **58,002** (+19,950)
+* 👥 Affiliate sites month unique users (September): 11,185
+
+#### Total earnings (4 months): 1,339€
+#### Total spendings (4 months): 386€ (hosting, domains and proxies)
+#### RESULT (4 months): +953€ 🤗🤗
