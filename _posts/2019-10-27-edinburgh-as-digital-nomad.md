@@ -15,13 +15,13 @@ I'll use this post for my previous planning and I'll be updating it while we are
 
 ### index
 
-1. [Traditional Scottish Food](#1-traditional-scottish-food)
+1. [Traditional Scottish and Edinburgh Food](#1-traditional-scottish-and-edinburgh-food)
 1. [Cheap restaurants](#2-cheap-restaurants)
 1. [Best Fish & Chips](#3-best-fish-chips)
 1. [Best breakfasts](#4-best-breakfasts)
 1. [Best restaurants](#5-best-restaurants)
 
-## 1. Traditional Scottish Food
+## 1. Traditional Scottish and Edinburgh Food
 * **Full Scottish** Breakfast! More on this in [Best breakfasts section](#4-best-breakfasts)
 ![Full Scottish](/assets/images/traditional-scottish-food-full-scottish.jpg "Full Scottish")
 * **Haggis**
