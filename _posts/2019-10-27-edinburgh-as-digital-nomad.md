@@ -7,11 +7,38 @@ categories:
     - digital-nomad
 comments: true
 ---
-*Post in construction!*
+![Edinburgh](/assets/images/edinburgh-edinburgh.jpg "Edinburgh")
 
-This is my second trip to Edinburgh, I was there for two weeks for the first time in 2016 and now we'll be there for one month. Both times using AirBnB for accommodation (we hired a room, not an entire flat! Edinburgh center is not cheap!).
+This was my second trip to Edinburgh, I was there for two weeks for the first time in 2016 and now we were there for one month. Both times using AirBnB for accommodation (we hired a room, not an entire flat! Edinburgh center is not cheap!).
 
-I'll use this post for my previous planning and I'll be updating it while we are there in 2019 November.
+## We finished our month in Edinburgh, here are our fast tips!
+* Scottish **breakfast** any time of the day CHEAP and GOOD? go to **[Snax Cafe](http://www.snaxcafe.com/)**!! there are like 2 or 3 in Edinburgh.
+![Snax Cafe](/assets/images/edinburgh-snax-cafe.jpg "Snax Cafe")
+* Go to "BRGR"! Good burger, fries and drinks for two under 20£.
+![BRGR](/assets/images/edinburgh-brgr.jpg "BRGR")
+* Go to the car boot sale at Westside Parking on sunday mornings! I loved it!!
+![Edinburgh car boot sale](/assets/images/edinburgh-car-boot-sale.jpg "Edinburgh car boot sale")
+* Try Haggis!
+![Haggis](/assets/images/edinburgh-haggis.jpg "Haggis")
+* Best coffee to work, plenty of places, plugs and good wifi: Brew Lab Coffee
+![Brew Lab Coffee](/assets/images/edinburgh-brew-lab-coffee.jpg "Brew Lab Coffee")
+* Princess street Starbucks was my other favorite
+![Starbucks Princess Street](/assets/images/edinburgh-starbucks-princess-street.jpg "Starbucks Princess Street")
+![Starbucks Princess Street](/assets/images/edinburgh-starbucks-princess-street-2.jpg "Starbucks Princess Street")
+* Best scottish Croissant at Patisserie Valerie
+![Patisserie Valerie](/assets/images/edinburgh-patisserie-valerie.jpg "Patisserie Valerie")
+* Go to the sea front (Portobello) and visit "Tower Amusements", even more recommended if you are a fan of **Stranger Things**.
+![Tower Amusements](/assets/images/edinburgh-tower-amusements.jpg "Tower Amusements")
+![Tower Amusements](/assets/images/edinburgh-tower-amusements-2.jpg "Tower Amusements")
+* There are many **free museums** in Edinburgh, go visit some!
+![Edinburgh Scottish National Gallery](/assets/images/edinburgh-scottish-national-gallery.jpg "Edinburgh Scottish National Gallery")
+* Need groceries? go to LIDL best value for the money in Edinburgh.
+![LIDL Edinburgh](/assets/images/edinburgh-lidl.jpg "LIDL Edinburgh")
+* Do you like books? visit Blackwell's, a huge bookshop near the University.
+![Blackwells Edinburgh](/assets/images/edinburgh-blackwells.jpg "Blackwells Edinburgh")
+* Need to send a package or two? use [parcel2go](http://parcel2go.com/), you can use a drop off point. We sent a 10kg box to Spain for 17£!
+![parcel2go](/assets/images/edinburgh-parcel2go.jpg "parcel2go")
+* Will you stay for more than a couple days? whatever you do don't choose an AirBnb shared with several rooms to rent! We did it and we won't do it again, staying a month is too much people around! go far from the center if you need it to raise the price, buses are always around if you need to go to the center.
 
 ### index
 
@@ -75,6 +102,7 @@ I'll use this post for my previous planning and I'll be updating it while we are
 * **[Paradise Palms](https://www.theparadisepalms.com/)** American diner inspired Vegetarian & Vegan food (Mains around 8 pounds)
 * **[meltmongers](https://www.tripadvisor.co.uk/Restaurant_Review-g186525-d9721829-Reviews-Meltmongers-Edinburgh_Scotland.html)** Breakfasts and Sandwiches (around 5-6 pounds)
 * **[Taste of Italy](https://www.tripadvisor.co.uk/Restaurant_Review-g186525-d1917352-Reviews-Taste_of_Italy-Edinburgh_Scotland.html)** Italian caffé and take away
+* **[The High Dive]** Pizza (also brunch)
 
 ## 3. Best Fish & Chips
 * **[St Andrews](https://www.tripadvisor.co.uk/ShowUserReviews-g186525-d3507882-r146282961-St_Andrews_Restaurant-Edinburgh_Scotland.html)** It seems this italian restaurant at Portobello has the best Fish & Chips from Edinburgh according to [Kakibot channel](https://www.youtube.com/watch?v=SztU8Akk93I&t=6s)
@@ -83,7 +111,7 @@ I'll use this post for my previous planning and I'll be updating it while we are
 
 ## 4. Best Breakfasts
 * **[Brochan](https://www.brochan.co.uk/)** Veggie breakfast (Oaks Machine!)
-* **[Dishoom Bombay Cafe](https://www.dishoom.com/edinburgh/)** Indian restaurant
+* **[Dishoom Bombay Cafe](https://www.dishoom.com/edinburgh/)** Indian restaurant (unlimited chai)
 * **[Snax Cafe](http://www.snaxcafe.com/)** Cheap scottish breakfast
 * **[The City Cafe](https://www.thecitycafe.co.uk/)** Big breakfast american style (till 10pm!)
 * **[Mimi's bakehouse](https://mimisbakehouse.com/)** Cakes (expensive!)
@@ -96,3 +124,13 @@ I'll use this post for my previous planning and I'll be updating it while we are
 * **[A Room in Leith](https://www.tripadvisor.co.uk/Restaurant_Review-g186525-d13956367-Reviews-A_room_in_leith_Seafood_and_Game_Bistro_Bar-Edinburgh_Scotland.html)** Game & Seafood Bar (ask for scotch eggs!)
 * **[Cafe Piccante](https://www.tripadvisor.co.uk/Restaurant_Review-g186525-d3546493-Reviews-Cafe_Piccante-Edinburgh_Scotland.html)** Best (if we can use "best" for this) typical deep fried mars
 
+## 6. What to see
+* **Scottish parliament**
+* **The Royal Mile**
+* **Holyrood Palace**
+* **Edinburgh Castle**
+* **Princess Street Gardens**
+* **National Museum of Scotland** Free
+* **National portrait gallery** Free
+* **Museum of Modern Art** Free
+* **Greyfriers Kirkyard** Free
