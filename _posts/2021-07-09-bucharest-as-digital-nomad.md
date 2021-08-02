@@ -2,9 +2,12 @@
 layout: post
 title: "Bucharest as a digital nomad"
 date: 2021-07-09 21:38:00 +0100
+last_modified_at: 2021-08-02 17:56:00 +0100
 thumbnail: "2021-07-09-bucharest-as-digital-nomad.png"
 categories:
     - digital-nomad
+main_image: "/assets/images/2021-07-09-001-bucharest.jpg"
+excerpt: "I went to Bucharest as a digital nomad for one month, through +50 pages and +140 pictures I tell you the best and the worst and how it is for digital nomads."
 comments: true
 ---
 ![Bucharest](/assets/images/2021-07-09-001-bucharest.jpg "Bucharest")

@@ -6,7 +6,66 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} | Montes Remote Developer</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   <meta name="publisuites-verify-code" content="aHR0cHM6Ly9tb250ZXNyZW1vdGVkZXYuY29t" />
-  
+
+  {% if page.title and page.main_image %}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:description" content="{{ page.excerpt | strip | strip_html | truncate: 197 }}" />
+  <meta name="twitter:url" content="{{ page.url | absolute_url }}" />
+  <meta name="twitter:image" content="{{ page.main_image | absolute_url }}" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:label1" content="Written by" />
+  <meta name="twitter:data1" content="montesremotedev" />
+  <meta name="twitter:site" content="@montesremotedev" />
+  <meta name="twitter:creator" content="@montesremotedev" />
+
+  <meta property="article:published_time" content="{{ page.date }}" />
+  <meta property="article:modified_time" content="{{ page.last_modified_at }}" />
+
+  <meta property="og:site_name" content="@montesremotedev (Javier Montes)" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.excerpt | strip | strip_html | truncate: 197 }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  <meta property="og:image" content="{{ page.main_image | absolute_url }}" />
+
+  <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "publisher": {
+            "@type": "Organization",
+            "name": "@montesremotedev (Javier Montes)",
+            "url": "https://montesremotedev.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "{{ page.thumbnail }}",
+                "width": 90,
+                "height": 90
+            }
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Javier Montes",
+            "url": "https://montesremotedev.com",
+            "sameAs": []
+        },
+        "headline": "{{ page.title }}",
+        "url": "{{ page.url | absolute_url }}",
+        "datePublished": "{{ page.date }}",
+        "dateModified": "{{ page.last_modified_at }}",
+        "image": {
+            "@type": "ImageObject",
+            "url": "{{ page.main_image | absolute_url }}",
+        },
+        "description": "{{ page.excerpt | strip | strip_html | truncate: 197 }}",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://montesremotedev.com"
+        }
+    }
+  </script>
+  {% endif %}
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   {% comment %}<link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">{% endcomment %}
 
