@@ -53,10 +53,9 @@
         "url": "{{ page.url | absolute_url }}",
         "datePublished": "{{ page.date }}",
         "dateModified": "{{ page.last_modified_at }}",
-        "image": {
-            "@type": "ImageObject",
-            "url": "{{ page.main_image | absolute_url }}",
-        },
+        "image": [
+          "{{ page.main_image | absolute_url }}"
+        ],
         "description": "{{ page.excerpt | strip | strip_html | truncate: 197 }}",
         "mainEntityOfPage": {
             "@type": "WebPage",
