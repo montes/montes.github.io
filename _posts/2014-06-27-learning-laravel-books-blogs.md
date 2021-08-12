@@ -2,19 +2,34 @@
 layout: post
 title: "Learning Laravel part 1: books, blogs…"
 date: 2014-06-27 17:00:00 +0100
+last_modified_at: 2021-08-12 18:56:00 +0100
 thumbnail: "2014-06-27-learning-laravel-books-blogs.jpg"
 categories:
     - laravel
     - backend
-comments: true    
+main_image: "/assets/images/2014-06-27-learning-laravel-books-blogs-main.jpg"
+excerpt: "The best books you can buy to learn Laravel with direct links, updated Aug 2021."
+comments: true
 ---
-With this post I want to start a series of posts about [Laravel](https://laravel.com/), the PHP framework that I’ve already used in two projects and I’ve been very pleasantly surprised with. If you are curious one of them is a personal project (sorry only in spanish): [Acuestas](https://acuestas.es/).
+
+**Updated Aug 2021**
+
+With this post I want to start a series of posts about [Laravel](https://laravel.com/), the PHP framework that I use for all my projects and I’ve been very pleasantly surprised with. If you are curious one of them is a personal project: [Acuestas International](https://acuestas.com)/[Acuestas Spanish](https://acuestas.es/).
 
 Laravel has quickly become one of the greatest PHP frameworks, or at least one of the most famous according to [google trends](http://google.com/trends).
 
 ![Google Trends Laravel]({{ "/assets/images/learning-laravel-books-blogs-1.jpg" | absolute_url }})
 
 The main advantage of Laravel over other frameworks (that I personally can confirm) is over all the **productivity**, is amazing how easily you obtain results with Laravel, is a matter of minutes to setup everything and start writing your model, and after this it even becomes better, when you already have written the model, writing the controllers/views is faster than anything I had seen in PHP.
+
+## Books updated for Laravel 8 (Sept 2020)
+* [Domain Driven Laravel](https://www.amazon.com/Domain-Driven-Laravel-Learn-Implement-Design-ebook/dp/B08M3P5Y75/?tag=usmooontes-20)
+* [Laravel: The Ultimate Beginner's Guide to Learn Laravel Step by Step , 2nd Edition](https://www.amazon.com/Laravel-Ultimate-Beginners-Guide-Learn/dp/B08M1QXWS7/?tag=usmooontes-20)
+
+## Books updated for Laravel 5.8 (Feb 2019)
+* [Laravel: Up & Running: A Framework for Building Modern PHP Apps 2nd Edition](https://www.amazon.com/Laravel-Running-Framework-Building-Modern/dp/1492041211/?tag=usmooontes-20)
+* [Beginning PHP Laravel: Step to step approach to building an Inventory App](https://www.amazon.com/dp/B0863V38Y5?tag=usmooontes-20)
+* [Full-Stack Vue.js 2 and Laravel 5: Bring the frontend and backend together with Vue, Vuex, and Laravel](https://www.amazon.com/Full-Stack-Vue-js-Laravel-frontend-together-dp-1788299582/dp/1788299582/?tag=usmooontes-20)
 
 ## Books about Laravel 4
 
@@ -34,7 +49,7 @@ Thanks to its reputation, there are already many books with Laravel 4 as it’s 
 * [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel) (written by Taylor Otwell)
 * [Build APIs You Won’t Hate](https://leanpub.com/build-apis-you-wont-hate)
 
-There are also some [PacktPub’s Laravel books](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Laravel&tag=mooontes-21), but I can’t recommend Packtpub’s books.
+There are also some [PacktPub’s Laravel books](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Laravel&tag=usmooontes-20), but I can’t recommend Packtpub’s books.
 
 ## Blogs, newsletter, videos…
 
