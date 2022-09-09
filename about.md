@@ -10,4 +10,4 @@ Here you will find information about my work on web development combined with my
 
 You can find more information about me on [Twitter](https://twitter.com/montesremotedev) and [Github](https://github.com/montes).
 
-![Montes Remote Developer]({{ "/assets/images/coding-in-the-beach-1110x682.jpg" | absolute_url }})
+![Montes Remote Dev]({{ "/assets/images/coding-in-the-beach-1110x682.jpg" | absolute_url }})
