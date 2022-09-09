@@ -8,6 +8,6 @@ I'm Javier Montes, a web developer with 20 years of experience working remotely 
 
 Here you will find information about my work on web development combined with my other passion, travel the world.
 
-You can find more information about me on [Twitter](https://twitter.com/montesjmm) and [Github](https://github.com/montes).
+You can find more information about me on [Twitter](https://twitter.com/montesremotedev) and [Github](https://github.com/montes).
 
 ![Montes Remote Developer]({{ "/assets/images/coding-in-the-beach-1110x682.jpg" | absolute_url }})
