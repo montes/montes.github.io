@@ -24,6 +24,7 @@ github_username: montes
 instagram_username: montes
 youtube_url: https://www.youtube.com/channel/UCmPFJ4kCzhK38iBMq6Y2nlw
 google_analytics: "UA-110220638-1"
+permalink: /:title:output_ext
 
 collections:
   category:
@@ -42,6 +43,7 @@ markdown: kramdown
 theme:
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 sass:
     sass_dir: _sass
