@@ -9,6 +9,7 @@ categories:
 main_image: "/assets/images/2021-07-09-001-bucharest.jpg"
 excerpt: "I went to Bucharest as a digital nomad for one month, through +50 pages and +140 pictures I tell you the best and the worst and how it is for digital nomads."
 comments: true
+redirect_from: /digital-nomad/2021/07/09/bucharest-as-digital-nomad.html
 ---
 ![Bucharest](/assets/images/2021-07-09-001-bucharest.jpg "Bucharest"){:loading="lazy"}
 

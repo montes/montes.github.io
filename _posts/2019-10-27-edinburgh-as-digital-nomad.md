@@ -6,6 +6,7 @@ thumbnail: "2019-10-27-edinburgh-as-digital-nomad.png"
 categories:
     - digital-nomad
 comments: true
+redirect_from: /digital-nomad/2019/10/27/edinburgh-as-digital-nomad.html
 ---
 ![Edinburgh](/assets/images/edinburgh-edinburgh.jpg "Edinburgh")
 

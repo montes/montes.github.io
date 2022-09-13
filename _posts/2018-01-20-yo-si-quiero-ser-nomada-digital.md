@@ -5,7 +5,8 @@ date: 2018-01-20 13:35:00 +0100
 thumbnail: "2018-01-20-yo-si-quiero-ser-nomada-digital-thumbnail.jpg"
 categories:
     - "digital-nomad"
-comments: true    
+comments: true
+redirect_from: /digital-nomad/2018/01/20/yo-si-quiero-ser-nomada-digital.html
 ---
 
 Hace mucho tiempo que no escribía un _artículo-réplica_ pero el viernes me pasó mi jefe [este artículo](https://genteinvencible.com/ser-nomada-digital/), yo creo que con toda la intención de _tocarme las narices_ y no he podido resistirme a contestar. Intento aportar el otro punto de vista, el del que sí disfruta ese trabajo en remoto mientras se va viajando y conociendo nuevos sitios.

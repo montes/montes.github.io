@@ -5,7 +5,8 @@ date: 2013-01-28 17:00:00 +0100
 thumbnail: "2013-01-28-plugin-add-pictures-wordpress-comments.jpg"
 categories:
     - wordpress
-comments: true    
+comments: true
+redirect_from: /wordpress/2013/01/28/plugin-add-pictures-wordpress-comments.html
 ---
 About a month ago I added my first public plugin to “Worpress’ Plugin Directory”, this is a plugin that allows users to attach pictures to his comments, also multimedia files like PDFs!
 

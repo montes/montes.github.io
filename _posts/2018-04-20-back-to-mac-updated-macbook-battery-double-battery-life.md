@@ -6,7 +6,8 @@ thumbnail: "2018-04-20-back-to-mac-replaced-macbook-battery-double-battery-life-
 categories:
     - "apple"
     - "hardware"
-comments: true    
+comments: true
+redirect_from: /apple/hardware/2018/04/22/back-to-mac-updated-macbook-battery-double-battery-life.htm
 ---
 
 ## Why I threw in the towel

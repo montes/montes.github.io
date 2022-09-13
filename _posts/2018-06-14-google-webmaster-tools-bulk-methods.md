@@ -7,6 +7,7 @@ categories:
     - "seo"
     - "frontend"
 comments: true
+redirect_from: /seo/frontend/2018/06/14/google-webmaster-tools-bulk-methods.html
 ---
 
 ## Working with Google Webmaster Tools and many data

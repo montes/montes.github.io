@@ -10,6 +10,7 @@ categories:
 main_image: "/assets/images/2014-06-27-learning-laravel-books-blogs-main.jpg"
 excerpt: "The best books you can buy to learn Laravel with direct links, updated Aug 2021."
 comments: true
+redirect_from: /laravel/backend/2014/06/27/learning-laravel-books-blogs.html
 ---
 
 **Updated Aug 2021**

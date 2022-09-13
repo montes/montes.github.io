@@ -6,6 +6,7 @@ thumbnail: "2019-01-19-the-best-ynab-alternative.png"
 categories:
     - "tools"
 comments: true
+redirect_from: /tools/2019/01/19/the-best-ynab-alternative.html
 ---
 There was one week left from my *You Need a Budget* trial, I was very happy with the tool and convinced of paying that "$6.99/month" when I realized that there was a tiny asterisk pointing to this phrase "*Billed annually at $83.99*", I wasn't expecting this 🤬 old school marketing from them. I felt duped and instantly started the search of an alternative with a better price and similar functionality.
 

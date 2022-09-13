@@ -6,6 +6,7 @@ thumbnail: "2019-01-16-2019-challenge-start-making-money-online.png"
 categories:
     - "make-money"
 comments: true
+redirect_from: /make-money/2019/02/06/2019-challenge-start-making-money-on-internet.html
 ---
 
 Hi! I'm **Javier Montes**, I'm 42 years old and I've dedicated all my life to programming (oh! and I love christmas 🎅 😍)

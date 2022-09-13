@@ -10,6 +10,7 @@ categories:
 main_image: "/assets/images/2022-09-10-001-nyc.jpg"
 excerpt: "I visited 100 restaurants during 10 weeks in NYC as a digital nomad, these are my favorites."
 comments: true
+redirect_from: /digital-nomad/new-york-city/2022/09/10/visited-100-restaurants-during-10-weeks-new-york-these-are-my-favorites.html
 ---
 
 In my two and a half months in New York as a [digital nomad](/category/digital-nomad) the time difference with Europe forced me to get up very early to keep in touch, but it also allowed me to have free lunch and dinner hours to try many foods, this post is the result of all my visits.

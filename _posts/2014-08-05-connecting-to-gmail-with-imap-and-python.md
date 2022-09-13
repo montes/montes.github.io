@@ -5,7 +5,8 @@ date: 2014-08-05 17:00:00 +0100
 thumbnail: "2014-08-05-connecting-to-gmail-with-imap-and-python.jpg"
 categories:
     - python
-comments: true    
+comments: true
+redirect_from: /python/2014/08/05/connecting-to-gmail-with-imap-and-python.html
 ---
 ## Solving a problem: "auto emails" to remind URLs
 
@@ -20,7 +21,7 @@ This would save www.manytravels.com to "travels" Delicious category.
 
 ## Connecting to GMail
 
-I use GMail but I wanted to use something more universal than GMail API, so I chose IMAP to connect to GMail.  
+I use GMail but I wanted to use something more universal than GMail API, so I chose IMAP to connect to GMail.
 
 Python has an IMAP library: [imaplib](https://web.archive.org/web/20161023155706/https://docs.python.org/2/library/imaplib.html) that allows us to IMAP very easily, connecting to GMail is:
 
