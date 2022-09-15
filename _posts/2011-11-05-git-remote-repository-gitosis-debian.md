@@ -8,6 +8,7 @@ categories:
     - git
 comments: true
 redirect_from: /sysadmin/git/2011/11/05/git-remote-repository-gitosis-debian.html
+redirect_to: https://webdevjuice.com/our-own-git-remote-repository-with-gitosis-and-debian/
 ---
 There are many options for having a private remote git repository on the internet like for example Github, that is free for public repositories but not for private ones.
 
