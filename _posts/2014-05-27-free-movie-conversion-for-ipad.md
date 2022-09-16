@@ -7,6 +7,7 @@ categories:
     - apple
 comments: true
 redirect_from: /apple/2014/06/27/free-movie-conversion-for-ipad.html
+redirect_to: https://webdevjuice.com/free-movie-conversion-for-ipad/
 ---
 Do you have movies that you want to see in your iPad with the best quality/compression? Aren't you afraid of OSX terminal? Then let's go to learn something new!
 

@@ -7,6 +7,7 @@ categories:
     - frontend
 comments: true
 redirect_from: /frontend/2012/09/19/sublime-text-2-bracket-highlighter.html
+redirect_to: https://webdevjuice.com/sublime-text-2-bracket-highlighter/
 ---
 [Bracket Highlighter][bracket-highlighter] is a very nice Sublime Text 2 plugin that does exactly what it’s name suggest, here is an example:
 

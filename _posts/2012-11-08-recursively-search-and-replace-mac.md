@@ -7,6 +7,7 @@ categories:
     - apple
 comments: true
 redirect_from: /apple/2012/11/08/recursively-search-and-replace-mac.html
+redirect_to: https://webdevjuice.com/recursively-search-replace-that-works-on-mac/
 ---
 After testing a lot of combinations, at last one that works perfect!
 
