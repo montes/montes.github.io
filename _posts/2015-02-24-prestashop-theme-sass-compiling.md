@@ -8,6 +8,7 @@ categories:
     - frontend
 comments: true
 redirect_from: /prestashop/frontend/2015/02/24/prestashop-theme-sass-compiling.html
+redirect_to: https://webdevjuice.com/prestashop-1-6-theme-sass-compiling/
 ---
 From version 1.6 the Prestashop default theme is developed using Sass, this means that the CSS of the theme is not written directly, is obtained after compiling the Sass files.
 

@@ -7,6 +7,7 @@ categories:
     - testing
 comments: true
 redirect_from: /testing/2014/07/29/testing-apis-httpie-postman.html
+redirect_to: https://webdevjuice.com/testing-apis-httpie-y-postman/
 ---
 Do you do some API testing? some http stuff? If you didn’t know these tools before, you are going to be very happy today!
 

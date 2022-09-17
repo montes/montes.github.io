@@ -7,6 +7,7 @@ categories:
     - frontend
 comments: true
 redirect_from: /frontend/2014/07/12/web-development-podcasts.html
+redirect_to: https://webdevjuice.com/web-development-podcasts/
 ---
 I cannot live a week without listening to several podcasts, it's a good way to keep yourself up to date while doing a task that doesn’t allow you to read or watch videos, like driving or cleaning.
 

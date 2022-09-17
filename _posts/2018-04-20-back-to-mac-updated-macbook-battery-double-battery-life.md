@@ -8,6 +8,7 @@ categories:
     - "hardware"
 comments: true
 redirect_from: /apple/hardware/2018/04/22/back-to-mac-updated-macbook-battery-double-battery-life.htm
+redirect_to: https://webdevjuice.com/back-to-mac-i-replaced-my-ol-macbook-battery-and-got-double-battery-life/
 ---
 
 ## Why I threw in the towel

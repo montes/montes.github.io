@@ -7,6 +7,7 @@ categories:
     - python
 comments: true
 redirect_from: /python/2014/08/05/connecting-to-gmail-with-imap-and-python.html
+redirect_to: https://webdevjuice.com/connecting-to-gmail-with-imap-and-python/
 ---
 ## Solving a problem: "auto emails" to remind URLs
 
