@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The cheapest flights from Europe to America"
-date: 2022-09-22 12:08:00 +0100
-last_modified_at: 2022-09-22 12:08:00 +0100
+date: 2022-10-01 13:00:00 +0100
+date: 2022-10-01 13:00:00 +0100
 thumbnail: "flights-thumb.png"
 categories:
     - cheap-flights
